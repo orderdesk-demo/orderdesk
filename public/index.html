@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OrderDesk · Field Sales Orders</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230d9488'/%3E%3Cpath d='M16 7l9 9-9 9-9-9z' fill='%23f59e0b'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- ================= LOGIN  (#/login) ================= -->
+  <div id="login-view" class="login" hidden>
+    <section class="login-brand" aria-label="About OrderDesk">
+      <div class="brand brand-lg">
+        <span class="brand-mark" aria-hidden="true">◆</span>
+        <div>
+          <h1>OrderDesk</h1>
+          <p>Field sales order management</p>
+        </div>
+      </div>
+      <p class="login-pitch">Orders captured in the field, online or offline, with live views for sales reps and sales leadership.</p>
+      <ul class="login-points">
+        <li><strong>Sales Rep dashboard:</strong> quota pace, follow-ups, one-click status updates</li>
+        <li><strong>Leadership dashboard:</strong> revenue, quota attainment, pipeline and regions</li>
+        <li><strong>AI-ready:</strong> REST API plus an MCP server for agents like DevRev Computer</li>
+      </ul>
+    </section>
+
+    <section class="login-panel">
+      <form id="login-form" class="login-card card" novalidate>
+        <h2>Sign in</h2>
+        <p class="muted">Demo mode: there is no real authentication. Any email and password work.</p>
+        <div class="field">
+          <label for="login-email">Work email</label>
+          <input id="login-email" name="email" type="email" autocomplete="username" value="alex.morgan@orderdesk.demo" />
+        </div>
+        <div class="field">
+          <label for="login-password">Password</label>
+          <input id="login-password" name="password" type="password" autocomplete="current-password" value="demo-password" />
+        </div>
+        <p id="login-error" class="form-error" role="alert" hidden></p>
+        <button type="submit" class="btn btn-teal btn-block">Sign in</button>
+        <p class="login-footnote">Mock login for the prototype. The session lives in this browser only, and the API is not protected.</p>
+      </form>
+    </section>
+  </div>
+
+  <!-- ================= APP SHELL ================= -->
+  <div id="app-shell" hidden>
+    <header class="topbar">
+      <div class="container topbar-inner">
+        <a class="brand" href="#/leadership">
+          <span class="brand-mark" aria-hidden="true">◆</span>
+          <div>
+            <h1>OrderDesk</h1>
+            <p>Field sales orders</p>
+          </div>
+        </a>
+        <nav class="tabs" aria-label="Dashboards">
+          <a class="tab" id="tab-leadership" href="#/leadership">Leadership</a>
+          <a class="tab" id="tab-rep" href="#/rep">Sales Rep</a>
+        </nav>
+        <div class="user">
+          <span class="avatar" id="user-avatar" aria-hidden="true"></span>
+          <span class="user-name" id="user-name"></span>
+          <button type="button" class="btn btn-sm btn-ghost-light" id="logout-btn">Log out</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container main">
+      <div id="leadership-view" class="view" hidden></div>
+      <div id="rep-view" class="view" hidden></div>
+      <div id="detail-view" class="view" hidden></div>
+    </main>
+  </div>
+
+  <!-- Create / edit modal (native <dialog>: Esc to close, focus trapped) -->
+  <dialog id="order-dialog" class="modal" aria-labelledby="dialog-title">
+    <form id="order-form" novalidate>
+      <div class="modal-head">
+        <h3 id="dialog-title">New Order</h3>
+      </div>
+
+      <ul id="form-errors" class="form-errors" role="alert" hidden></ul>
+
+      <div class="field">
+        <label for="customer_name">Customer</label>
+        <input id="customer_name" name="customer_name" type="text" maxlength="120" autocomplete="off" placeholder="e.g. Acme Retail" />
+      </div>
+
+      <div class="field">
+        <label for="product">Product</label>
+        <input id="product" name="product" type="text" maxlength="120" autocomplete="off" placeholder="e.g. POS Terminal" list="product-options" />
+        <datalist id="product-options"></datalist>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="quantity">Quantity</label>
+          <input id="quantity" name="quantity" type="number" min="1" step="1" inputmode="numeric" />
+        </div>
+        <div class="field">
+          <label for="unit_price">Unit price (USD)</label>
+          <input id="unit_price" name="unit_price" type="number" min="0" step="0.01" inputmode="decimal" placeholder="0.00" />
+        </div>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="rep_id">Sales rep</label>
+          <select id="rep_id" name="rep_id"></select>
+        </div>
+        <div class="field">
+          <label for="status">Status</label>
+          <select id="status" name="status"></select>
+        </div>
+      </div>
+
+      <label class="checkbox-field">
+        <input type="checkbox" id="placed_offline" name="placed_offline" />
+        <span>
+          <strong>Captured offline</strong>
+          <small>Placed without connectivity and synced later</small>
+        </span>
+      </label>
+
+      <p class="value-preview" id="value-preview" aria-live="polite">Order value: –</p>
+
+      <div class="modal-actions">
+        <button type="button" class="btn btn-outline" id="cancel-btn">Cancel</button>
+        <button type="submit" class="btn btn-teal" id="save-btn">Create Order</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

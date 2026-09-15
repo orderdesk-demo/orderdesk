@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Local database files (re-created and re-seeded on first run)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+orders.json
+orders.json.tmp
+data/
+
+# OS / editor noise
+.DS_Store
+.env
+.code-review-graph/

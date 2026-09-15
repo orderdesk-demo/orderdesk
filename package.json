@@ -1,0 +1,31 @@
+{
+  "name": "devrev-order-management",
+  "version": "1.0.0",
+  "description": "Field sales order management prototype: Express REST API + SQLite, Leadership and Sales Rep dashboards, and an MCP server for AI agents, served from one process.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "devrev:setup": "node tools/devrev-sync.js setup",
+    "devrev:sync": "node tools/devrev-sync.js sync",
+    "devrev:list": "node tools/devrev-sync.js list",
+    "db:reset": "node tools/reset-db.js",
+    "test": "node tests/run.mjs",
+    "test:ui": "node tests/ui.test.mjs"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "express": "^4.22.3",
+    "zod": "^4.6.5"
+  },
+  "optionalDependencies": {
+    "better-sqlite3": "^13.0.3"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.11.0"
+  }
+}
