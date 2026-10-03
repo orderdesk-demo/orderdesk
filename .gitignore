@@ -8,7 +8,6 @@ node_modules/
 *.db-shm
 orders.json
 orders.json.tmp
-data/
 
 # OS / editor noise
 .DS_Store

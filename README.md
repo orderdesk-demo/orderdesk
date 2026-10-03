@@ -106,7 +106,12 @@ prices are backfilled). Use `npm run db:reset` if you'd rather have the full dem
 ├── devrev.js           DevRev integration: syncs orders into DevRev as custom objects
 ├── tools/
 │   ├── devrev-sync.js  CLI: npm run devrev:setup / devrev:sync / devrev:list
-│   └── reset-db.js     CLI: npm run db:reset
+│   ├── reset-db.js     CLI: npm run db:reset
+│   └── report.js       CLI: npm run report / report:publish (sales snapshot for AI tools)
+├── reports/
+│   └── sales-snapshot.md  Generated: order book + sales performance in readable form
+├── data/
+│   └── orders.csv      Generated: every order as a row
 ├── tests/
 │   ├── run.mjs         npm test: runs every suite below except the browser test
 │   ├── api.test.mjs    REST API on both storage engines

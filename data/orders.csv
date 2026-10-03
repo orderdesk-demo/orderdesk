@@ -1,0 +1,301 @@
+id,created_at,updated_at,customer_name,product,quantity,unit_price,total,status,rep_name,rep_region,placed_offline
+300,2026-10-02T19:10:14.779Z,2026-10-02T19:10:14.779Z,Summit Outdoor Co.,Rugged Field Tablet,7,1299,9093,New,David Kim,North,false
+299,2026-10-02T18:10:14.779Z,2026-10-03T03:10:14.779Z,Riverbend Books,Cash Drawer,16,119,1904,Processing,Marcus Johnson,East,false
+298,2026-10-01T17:10:14.779Z,2026-10-01T17:10:14.779Z,Metro Mart,POS Terminal,8,899,7192,New,Aisha Patel,West,true
+297,2026-10-01T12:10:14.779Z,2026-10-01T14:10:14.779Z,Sunrise Bakery Group,Mobile Card Reader,23,59,1357,Processing,Priya Sharma,West,false
+296,2026-10-01T06:10:14.779Z,2026-10-01T15:10:14.779Z,Acme Retail,Mobile Card Reader,38,59,2242,Processing,Elena Rodriguez,South,false
+295,2026-10-01T03:10:14.779Z,2026-10-02T01:10:14.779Z,Bayview Wine & Spirits,POS Terminal,11,899,9889,Processing,Aisha Patel,West,false
+294,2026-09-30T12:10:14.779Z,2026-09-30T21:10:14.779Z,Summit Outdoor Co.,Cash Drawer,17,119,2023,Shipped,Marcus Johnson,East,false
+293,2026-09-29T16:10:14.779Z,2026-10-01T01:10:14.779Z,Bayview Wine & Spirits,POS Terminal,10,899,8990,Shipped,Marcus Johnson,East,false
+292,2026-09-29T14:10:14.779Z,2026-09-29T22:10:14.779Z,Urban Threads Apparel,Rugged Field Tablet,8,1299,10392,Processing,David Kim,North,false
+291,2026-09-29T13:10:14.779Z,2026-10-02T02:10:14.779Z,Acme Retail,Mobile Card Reader,14,59,826,Shipped,Elena Rodriguez,South,false
+290,2026-09-29T10:10:14.779Z,2026-09-29T10:10:14.779Z,Maple Street Pet Supply,Handheld Barcode Scanner,7,249,1743,New,Tom Becker,East,false
+289,2026-09-28T06:10:14.779Z,2026-09-29T05:10:14.779Z,Sunrise Bakery Group,Thermal Receipt Printer,5,189,945,Processing,Marcus Johnson,East,false
+288,2026-09-27T20:10:14.779Z,2026-09-29T12:10:14.779Z,Canyon Coffee Co.,Thermal Receipt Printer,9,189,1701,Shipped,Priya Sharma,West,false
+287,2026-09-27T12:10:14.779Z,2026-09-30T20:10:14.779Z,Bayview Wine & Spirits,Rugged Field Tablet,8,1299,10392,Shipped,Aisha Patel,West,false
+286,2026-09-27T06:10:14.779Z,2026-10-02T06:10:14.779Z,Bayview Wine & Spirits,Cash Drawer,19,119,2261,Cancelled,Elena Rodriguez,South,false
+285,2026-09-27T02:10:14.779Z,2026-09-28T07:10:14.779Z,Acme Retail,Handheld Barcode Scanner,23,249,5727,Processing,Elena Rodriguez,South,false
+284,2026-09-26T23:10:14.779Z,2026-09-28T02:10:14.779Z,Harbor Point Deli,Rugged Field Tablet,5,1299,6495,Processing,Priya Sharma,West,true
+283,2026-09-26T16:10:14.779Z,2026-09-30T15:10:14.779Z,Urban Threads Apparel,Rugged Field Tablet,8,1299,10392,Shipped,Aisha Patel,West,false
+282,2026-09-26T13:10:14.779Z,2026-09-26T15:10:14.779Z,Bayview Wine & Spirits,Handheld Barcode Scanner,23,249,5727,Processing,David Kim,North,true
+281,2026-09-25T08:10:14.779Z,2026-09-30T11:10:14.779Z,Bayview Wine & Spirits,Label Printer,6,329,1974,Shipped,Priya Sharma,West,false
+280,2026-09-25T00:10:14.779Z,2026-09-29T00:10:14.779Z,Maple Street Pet Supply,POS Terminal,12,899,10788,Delivered,Aisha Patel,West,false
+279,2026-09-24T09:10:14.779Z,2026-09-25T10:10:14.779Z,Harbor Point Deli,Cash Drawer,20,119,2380,Delivered,Aisha Patel,West,false
+278,2026-09-24T04:10:14.779Z,2026-09-27T09:10:14.779Z,Fresh Fields Market,Thermal Receipt Printer,14,189,2646,Shipped,Aisha Patel,West,true
+277,2026-09-21T21:10:14.779Z,2026-09-23T05:10:14.779Z,Urban Threads Apparel,Rugged Field Tablet,1,1299,1299,Shipped,Priya Sharma,West,false
+276,2026-09-20T12:10:14.779Z,2026-09-20T13:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,2,4999,9998,Processing,Marcus Johnson,East,false
+275,2026-09-20T04:10:14.779Z,2026-09-20T21:10:14.779Z,Sunrise Bakery Group,Cash Drawer,16,119,1904,Processing,Marcus Johnson,East,true
+274,2026-09-19T23:10:14.779Z,2026-09-23T14:10:14.779Z,Blue Harbor Pharmacy,Self-Checkout Kiosk,2,4999,9998,Delivered,Priya Sharma,West,false
+273,2026-09-18T13:10:14.779Z,2026-09-24T13:10:14.779Z,Summit Outdoor Co.,Self-Checkout Kiosk,3,4999,14997,Delivered,Marcus Johnson,East,false
+272,2026-09-17T09:10:14.779Z,2026-09-19T12:10:14.779Z,Greenleaf Grocers,Cash Drawer,16,119,1904,Delivered,Priya Sharma,West,false
+271,2026-09-16T22:10:14.779Z,2026-09-19T14:10:14.779Z,Lakeside Hardware,Handheld Barcode Scanner,8,249,1992,Delivered,Tom Becker,East,false
+270,2026-09-15T20:10:14.779Z,2026-09-19T15:10:14.779Z,Greenleaf Grocers,Handheld Barcode Scanner,27,249,6723,Delivered,Marcus Johnson,East,false
+269,2026-09-15T03:10:14.779Z,2026-09-17T03:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,1,4999,4999,Delivered,Priya Sharma,West,true
+268,2026-09-14T15:10:14.779Z,2026-09-15T18:10:14.779Z,Northwind Traders,POS Terminal,2,899,1798,Delivered,Marcus Johnson,East,false
+267,2026-09-14T07:10:14.779Z,2026-09-17T11:10:14.779Z,Summit Outdoor Co.,Handheld Barcode Scanner,18,249,4482,Delivered,Aisha Patel,West,false
+266,2026-09-14T01:10:14.779Z,2026-09-14T02:10:14.779Z,Greenleaf Grocers,POS Terminal,4,899,3596,Delivered,Elena Rodriguez,South,false
+265,2026-09-13T22:10:14.779Z,2026-09-19T13:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,2,4999,9998,Delivered,David Kim,North,false
+264,2026-09-13T18:10:14.779Z,2026-09-18T03:10:14.779Z,Pinecrest Pharmacy,Handheld Barcode Scanner,11,249,2739,Delivered,Priya Sharma,West,true
+263,2026-09-12T21:10:14.779Z,2026-09-18T18:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,11,119,1309,Delivered,Aisha Patel,West,false
+262,2026-09-12T08:10:14.779Z,2026-09-14T22:10:14.779Z,Pinecrest Pharmacy,Label Printer,7,329,2303,Delivered,Aisha Patel,West,false
+261,2026-09-11T15:10:14.779Z,2026-09-14T01:10:14.779Z,Metro Mart,Mobile Card Reader,15,59,885,Delivered,David Kim,North,true
+260,2026-09-10T18:10:14.779Z,2026-09-14T17:10:14.779Z,Pinecrest Pharmacy,Mobile Card Reader,39,59,2301,Cancelled,Priya Sharma,West,false
+259,2026-09-09T17:10:14.779Z,2026-09-12T18:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,6,119,714,Cancelled,Elena Rodriguez,South,false
+258,2026-09-09T04:10:14.779Z,2026-09-09T14:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,1,4999,4999,Delivered,Priya Sharma,West,false
+257,2026-09-09T03:10:14.779Z,2026-09-13T11:10:14.779Z,Acme Retail,Mobile Card Reader,26,59,1534,Delivered,Marcus Johnson,East,true
+256,2026-09-08T21:10:14.779Z,2026-09-12T15:10:14.779Z,Blue Harbor Pharmacy,Rugged Field Tablet,4,1299,5196,Delivered,Tom Becker,East,false
+255,2026-09-07T19:10:14.779Z,2026-09-09T22:10:14.779Z,Sunrise Bakery Group,Cash Drawer,4,119,476,Delivered,Priya Sharma,West,false
+254,2026-09-07T13:10:14.779Z,2026-09-08T16:10:14.779Z,Greenleaf Grocers,POS Terminal,2,899,1798,Delivered,Marcus Johnson,East,false
+253,2026-09-06T22:10:14.779Z,2026-09-10T07:10:14.779Z,Acme Retail,Handheld Barcode Scanner,12,249,2988,Delivered,David Kim,North,true
+252,2026-09-06T19:10:14.779Z,2026-09-10T13:10:14.779Z,Maple Street Pet Supply,POS Terminal,2,899,1798,Delivered,Aisha Patel,West,false
+251,2026-09-06T09:10:14.779Z,2026-09-10T05:10:14.779Z,Acme Retail,Label Printer,10,329,3290,Delivered,Priya Sharma,West,true
+250,2026-09-05T11:10:14.779Z,2026-09-11T11:10:14.779Z,Riverbend Books,POS Terminal,2,899,1798,Delivered,Priya Sharma,West,false
+249,2026-09-04T03:10:14.779Z,2026-09-09T03:10:14.779Z,Fresh Fields Market,Thermal Receipt Printer,9,189,1701,Cancelled,Marcus Johnson,East,false
+248,2026-09-03T22:10:14.779Z,2026-09-04T07:10:14.779Z,Pinecrest Pharmacy,Self-Checkout Kiosk,2,4999,9998,Delivered,Marcus Johnson,East,false
+247,2026-09-02T21:10:14.779Z,2026-09-04T06:10:14.779Z,Metro Mart,Rugged Field Tablet,1,1299,1299,Cancelled,Elena Rodriguez,South,false
+246,2026-09-02T20:10:14.779Z,2026-09-08T02:10:14.779Z,Maple Street Pet Supply,Self-Checkout Kiosk,1,4999,4999,Delivered,Aisha Patel,West,false
+245,2026-09-01T18:10:14.779Z,2026-09-04T22:10:14.779Z,Urban Threads Apparel,Handheld Barcode Scanner,27,249,6723,Delivered,David Kim,North,true
+244,2026-08-31T22:10:14.779Z,2026-09-02T19:10:14.779Z,Greenleaf Grocers,Label Printer,2,329,658,Delivered,Elena Rodriguez,South,false
+243,2026-08-30T17:10:14.779Z,2026-09-05T13:10:14.779Z,Urban Threads Apparel,Rugged Field Tablet,2,1299,2598,Delivered,Priya Sharma,West,true
+242,2026-08-29T21:10:14.779Z,2026-08-30T02:10:14.779Z,Summit Outdoor Co.,Mobile Card Reader,27,59,1593,Delivered,Priya Sharma,West,false
+241,2026-08-29T11:10:14.779Z,2026-09-01T08:10:14.779Z,Sunrise Bakery Group,POS Terminal,12,899,10788,Cancelled,Priya Sharma,West,true
+240,2026-08-28T20:10:14.779Z,2026-09-01T06:10:14.779Z,Riverbend Books,Cash Drawer,10,119,1190,Delivered,Marcus Johnson,East,false
+239,2026-08-28T19:10:14.779Z,2026-08-29T07:10:14.779Z,Summit Outdoor Co.,Thermal Receipt Printer,10,189,1890,Cancelled,David Kim,North,false
+238,2026-08-28T11:10:14.779Z,2026-09-02T14:10:14.779Z,Harbor Point Deli,Rugged Field Tablet,6,1299,7794,Delivered,Tom Becker,East,false
+237,2026-08-27T01:10:14.779Z,2026-08-28T22:10:14.779Z,Urban Threads Apparel,Self-Checkout Kiosk,2,4999,9998,Delivered,Tom Becker,East,true
+236,2026-08-26T14:10:14.779Z,2026-08-27T23:10:14.779Z,Blue Harbor Pharmacy,Mobile Card Reader,54,59,3186,Delivered,David Kim,North,true
+235,2026-08-26T07:10:14.779Z,2026-08-31T06:10:14.779Z,Sunrise Bakery Group,POS Terminal,4,899,3596,Delivered,Tom Becker,East,false
+234,2026-08-25T16:10:14.779Z,2026-08-29T07:10:14.779Z,Maple Street Pet Supply,Thermal Receipt Printer,16,189,3024,Delivered,Marcus Johnson,East,false
+233,2026-08-25T02:10:14.779Z,2026-08-27T21:10:14.779Z,Maple Street Pet Supply,Self-Checkout Kiosk,2,4999,9998,Delivered,Aisha Patel,West,true
+232,2026-08-24T01:10:14.779Z,2026-08-24T16:10:14.779Z,Pinecrest Pharmacy,Handheld Barcode Scanner,7,249,1743,Delivered,Tom Becker,East,false
+231,2026-08-23T23:10:14.779Z,2026-08-28T16:10:14.779Z,Fresh Fields Market,Cash Drawer,5,119,595,Delivered,David Kim,North,false
+230,2026-08-23T16:10:14.779Z,2026-08-25T23:10:14.779Z,Summit Outdoor Co.,Mobile Card Reader,33,59,1947,Cancelled,Marcus Johnson,East,true
+229,2026-08-23T10:10:14.779Z,2026-08-24T17:10:14.779Z,Maple Street Pet Supply,Rugged Field Tablet,5,1299,6495,Delivered,David Kim,North,false
+228,2026-08-23T05:10:14.779Z,2026-08-24T11:10:14.779Z,Canyon Coffee Co.,POS Terminal,11,899,9889,Delivered,Elena Rodriguez,South,false
+227,2026-08-23T04:10:14.779Z,2026-08-25T01:10:14.779Z,Sunrise Bakery Group,Thermal Receipt Printer,11,189,2079,Delivered,Marcus Johnson,East,false
+226,2026-08-21T10:10:14.779Z,2026-08-25T23:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,3,4999,14997,Delivered,Tom Becker,East,true
+225,2026-08-21T10:10:14.779Z,2026-08-25T07:10:14.779Z,Sunrise Bakery Group,Thermal Receipt Printer,4,189,756,Delivered,Aisha Patel,West,false
+224,2026-08-20T17:10:14.779Z,2026-08-25T03:10:14.779Z,Metro Mart,POS Terminal,12,899,10788,Delivered,Elena Rodriguez,South,false
+223,2026-08-19T10:10:14.779Z,2026-08-21T21:10:14.779Z,Blue Harbor Pharmacy,Self-Checkout Kiosk,2,4999,9998,Delivered,David Kim,North,false
+222,2026-08-19T02:10:14.779Z,2026-08-19T14:10:14.779Z,Riverbend Books,POS Terminal,8,899,7192,Delivered,Priya Sharma,West,true
+221,2026-08-18T17:10:14.779Z,2026-08-22T17:10:14.779Z,Northwind Traders,Cash Drawer,17,119,2023,Cancelled,Aisha Patel,West,true
+220,2026-08-18T11:10:14.779Z,2026-08-19T07:10:14.779Z,Bayview Wine & Spirits,Rugged Field Tablet,4,1299,5196,Delivered,Priya Sharma,West,false
+219,2026-08-18T08:10:14.779Z,2026-08-20T12:10:14.779Z,Fresh Fields Market,Handheld Barcode Scanner,29,249,7221,Delivered,Marcus Johnson,East,true
+218,2026-08-17T11:10:14.779Z,2026-08-22T09:10:14.779Z,Maple Street Pet Supply,Thermal Receipt Printer,13,189,2457,Delivered,Aisha Patel,West,false
+217,2026-08-17T07:10:14.779Z,2026-08-18T04:10:14.779Z,Harbor Point Deli,Label Printer,8,329,2632,Cancelled,Priya Sharma,West,false
+216,2026-08-16T22:10:14.779Z,2026-08-20T11:10:14.779Z,Canyon Coffee Co.,Label Printer,10,329,3290,Delivered,Aisha Patel,West,false
+215,2026-08-16T06:10:14.779Z,2026-08-18T09:10:14.779Z,Canyon Coffee Co.,Cash Drawer,18,119,2142,Delivered,Aisha Patel,West,true
+214,2026-08-16T05:10:14.779Z,2026-08-19T13:10:14.779Z,Urban Threads Apparel,Rugged Field Tablet,6,1299,7794,Delivered,Aisha Patel,West,true
+213,2026-08-16T00:10:14.779Z,2026-08-17T22:10:14.779Z,Fresh Fields Market,Rugged Field Tablet,4,1299,5196,Delivered,Marcus Johnson,East,false
+212,2026-08-15T14:10:14.779Z,2026-08-17T03:10:14.779Z,Fresh Fields Market,Cash Drawer,9,119,1071,Delivered,David Kim,North,false
+211,2026-08-14T20:10:14.779Z,2026-08-15T08:10:14.779Z,Acme Retail,Self-Checkout Kiosk,1,4999,4999,Delivered,Tom Becker,East,false
+210,2026-08-14T15:10:14.779Z,2026-08-15T13:10:14.779Z,Acme Retail,Mobile Card Reader,46,59,2714,Delivered,Marcus Johnson,East,false
+209,2026-08-14T14:10:14.779Z,2026-08-17T23:10:14.779Z,Blue Harbor Pharmacy,Thermal Receipt Printer,6,189,1134,Delivered,Tom Becker,East,false
+208,2026-08-13T15:10:14.779Z,2026-08-15T05:10:14.779Z,Summit Outdoor Co.,Thermal Receipt Printer,9,189,1701,Delivered,David Kim,North,false
+207,2026-08-12T06:10:14.779Z,2026-08-14T06:10:14.779Z,Fresh Fields Market,Self-Checkout Kiosk,3,4999,14997,Delivered,Marcus Johnson,East,false
+206,2026-08-12T03:10:14.779Z,2026-08-13T20:10:14.779Z,Metro Mart,Mobile Card Reader,29,59,1711,Cancelled,Marcus Johnson,East,true
+205,2026-08-12T02:10:14.779Z,2026-08-14T05:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,20,119,2380,Delivered,Aisha Patel,West,false
+204,2026-08-11T16:10:14.779Z,2026-08-14T01:10:14.779Z,Blue Harbor Pharmacy,Rugged Field Tablet,7,1299,9093,Delivered,Priya Sharma,West,false
+203,2026-08-11T10:10:14.779Z,2026-08-14T04:10:14.779Z,Fresh Fields Market,Label Printer,6,329,1974,Delivered,Elena Rodriguez,South,false
+202,2026-08-11T07:10:14.779Z,2026-08-15T01:10:14.779Z,Canyon Coffee Co.,Cash Drawer,5,119,595,Delivered,Marcus Johnson,East,true
+201,2026-08-10T16:10:14.779Z,2026-08-15T17:10:14.779Z,Summit Outdoor Co.,Rugged Field Tablet,5,1299,6495,Delivered,David Kim,North,false
+200,2026-08-10T05:10:14.779Z,2026-08-12T23:10:14.779Z,Lakeside Hardware,Rugged Field Tablet,2,1299,2598,Delivered,Aisha Patel,West,false
+199,2026-08-09T23:10:14.779Z,2026-08-13T19:10:14.779Z,Northwind Traders,Label Printer,9,329,2961,Delivered,Elena Rodriguez,South,true
+198,2026-08-09T20:10:14.779Z,2026-08-12T22:10:14.779Z,Maple Street Pet Supply,Handheld Barcode Scanner,16,249,3984,Delivered,Elena Rodriguez,South,false
+197,2026-08-09T14:10:14.779Z,2026-08-12T07:10:14.779Z,Acme Retail,Label Printer,9,329,2961,Delivered,Aisha Patel,West,true
+196,2026-08-09T04:10:14.779Z,2026-08-11T04:10:14.779Z,Lakeside Hardware,Rugged Field Tablet,1,1299,1299,Delivered,Marcus Johnson,East,true
+195,2026-08-08T15:10:14.779Z,2026-08-09T16:10:14.779Z,Canyon Coffee Co.,Handheld Barcode Scanner,20,249,4980,Delivered,Marcus Johnson,East,false
+194,2026-08-08T12:10:14.779Z,2026-08-11T12:10:14.779Z,Acme Retail,Label Printer,10,329,3290,Delivered,Marcus Johnson,East,false
+193,2026-08-08T10:10:14.779Z,2026-08-12T10:10:14.779Z,Northwind Traders,Rugged Field Tablet,3,1299,3897,Delivered,Aisha Patel,West,false
+192,2026-08-07T04:10:14.779Z,2026-08-12T10:10:14.779Z,Metro Mart,Handheld Barcode Scanner,23,249,5727,Delivered,Tom Becker,East,true
+191,2026-08-04T09:10:14.779Z,2026-08-04T16:10:14.779Z,Acme Retail,Mobile Card Reader,55,59,3245,Delivered,Elena Rodriguez,South,true
+190,2026-08-03T16:10:14.779Z,2026-08-07T12:10:14.779Z,Bayview Wine & Spirits,POS Terminal,6,899,5394,Delivered,Marcus Johnson,East,false
+189,2026-08-02T01:10:14.779Z,2026-08-05T01:10:14.779Z,Fresh Fields Market,Label Printer,4,329,1316,Delivered,Priya Sharma,West,false
+188,2026-08-01T05:10:14.779Z,2026-08-02T00:10:14.779Z,Riverbend Books,POS Terminal,7,899,6293,Cancelled,Aisha Patel,West,true
+187,2026-07-31T16:10:14.779Z,2026-08-04T12:10:14.779Z,Maple Street Pet Supply,Cash Drawer,6,119,714,Delivered,Marcus Johnson,East,false
+186,2026-07-28T21:10:14.779Z,2026-08-02T10:10:14.779Z,Riverbend Books,Handheld Barcode Scanner,16,249,3984,Delivered,Tom Becker,East,false
+185,2026-07-28T14:10:14.779Z,2026-07-29T12:10:14.779Z,Sunrise Bakery Group,Cash Drawer,19,119,2261,Delivered,Priya Sharma,West,true
+184,2026-07-28T11:10:14.779Z,2026-07-29T11:10:14.779Z,Harbor Point Deli,Mobile Card Reader,49,59,2891,Delivered,Priya Sharma,West,false
+183,2026-07-28T01:10:14.779Z,2026-07-29T22:10:14.779Z,Summit Outdoor Co.,Mobile Card Reader,43,59,2537,Delivered,Tom Becker,East,false
+182,2026-07-27T09:10:14.779Z,2026-07-31T03:10:14.779Z,Summit Outdoor Co.,Self-Checkout Kiosk,3,4999,14997,Delivered,Elena Rodriguez,South,false
+181,2026-07-27T01:10:14.779Z,2026-07-28T18:10:14.779Z,Harbor Point Deli,Label Printer,7,329,2303,Delivered,Marcus Johnson,East,false
+180,2026-07-26T02:10:14.779Z,2026-07-30T11:10:14.779Z,Bayview Wine & Spirits,Mobile Card Reader,24,59,1416,Delivered,David Kim,North,false
+179,2026-07-25T23:10:14.779Z,2026-07-28T01:10:14.779Z,Summit Outdoor Co.,Rugged Field Tablet,5,1299,6495,Delivered,Marcus Johnson,East,false
+178,2026-07-25T14:10:14.779Z,2026-07-26T04:10:14.779Z,Metro Mart,Handheld Barcode Scanner,26,249,6474,Delivered,Tom Becker,East,false
+177,2026-07-24T03:10:14.779Z,2026-07-24T11:10:14.779Z,Northwind Traders,Self-Checkout Kiosk,2,4999,9998,Delivered,Elena Rodriguez,South,true
+176,2026-07-23T21:10:14.779Z,2026-07-25T15:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,9,119,1071,Delivered,Aisha Patel,West,false
+175,2026-07-23T05:10:14.779Z,2026-07-25T15:10:14.779Z,Maple Street Pet Supply,POS Terminal,4,899,3596,Delivered,Marcus Johnson,East,false
+174,2026-07-22T00:10:14.779Z,2026-07-26T09:10:14.779Z,Summit Outdoor Co.,Cash Drawer,6,119,714,Delivered,David Kim,North,true
+173,2026-07-21T00:10:14.779Z,2026-07-22T02:10:14.779Z,Urban Threads Apparel,Label Printer,3,329,987,Delivered,Aisha Patel,West,false
+172,2026-07-20T22:10:14.779Z,2026-07-25T21:10:14.779Z,Bayview Wine & Spirits,Rugged Field Tablet,6,1299,7794,Delivered,Marcus Johnson,East,false
+171,2026-07-20T17:10:14.779Z,2026-07-21T00:10:14.779Z,Greenleaf Grocers,Self-Checkout Kiosk,2,4999,9998,Delivered,David Kim,North,false
+170,2026-07-20T16:10:14.779Z,2026-07-26T06:10:14.779Z,Summit Outdoor Co.,Handheld Barcode Scanner,23,249,5727,Delivered,Elena Rodriguez,South,false
+169,2026-07-19T00:10:14.779Z,2026-07-21T17:10:14.779Z,Maple Street Pet Supply,Mobile Card Reader,33,59,1947,Delivered,Elena Rodriguez,South,false
+168,2026-07-17T07:10:14.779Z,2026-07-21T00:10:14.779Z,Sunrise Bakery Group,Handheld Barcode Scanner,17,249,4233,Delivered,Priya Sharma,West,false
+167,2026-07-17T06:10:14.779Z,2026-07-17T23:10:14.779Z,Fresh Fields Market,Label Printer,3,329,987,Delivered,Marcus Johnson,East,false
+166,2026-07-15T23:10:14.779Z,2026-07-16T07:10:14.779Z,Blue Harbor Pharmacy,Cash Drawer,8,119,952,Delivered,David Kim,North,false
+165,2026-07-15T03:10:14.779Z,2026-07-18T17:10:14.779Z,Lakeside Hardware,Cash Drawer,19,119,2261,Delivered,Aisha Patel,West,false
+164,2026-07-15T02:10:14.779Z,2026-07-16T10:10:14.779Z,Summit Outdoor Co.,Handheld Barcode Scanner,27,249,6723,Delivered,Priya Sharma,West,true
+163,2026-07-15T02:10:14.779Z,2026-07-16T18:10:14.779Z,Greenleaf Grocers,Mobile Card Reader,14,59,826,Delivered,Elena Rodriguez,South,false
+162,2026-07-15T01:10:14.779Z,2026-07-17T05:10:14.779Z,Summit Outdoor Co.,Handheld Barcode Scanner,6,249,1494,Delivered,Elena Rodriguez,South,true
+161,2026-07-14T19:10:14.779Z,2026-07-15T20:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,2,4999,9998,Delivered,Priya Sharma,West,false
+160,2026-07-14T19:10:14.779Z,2026-07-20T17:10:14.779Z,Fresh Fields Market,Rugged Field Tablet,5,1299,6495,Delivered,Priya Sharma,West,true
+159,2026-07-13T20:10:14.779Z,2026-07-14T15:10:14.779Z,Greenleaf Grocers,POS Terminal,11,899,9889,Delivered,Tom Becker,East,false
+158,2026-07-13T06:10:14.779Z,2026-07-16T03:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,7,119,833,Delivered,Elena Rodriguez,South,false
+157,2026-07-13T04:10:14.779Z,2026-07-13T21:10:14.779Z,Lakeside Hardware,Cash Drawer,17,119,2023,Delivered,Elena Rodriguez,South,false
+156,2026-07-13T03:10:14.779Z,2026-07-14T01:10:14.779Z,Greenleaf Grocers,Cash Drawer,5,119,595,Cancelled,Priya Sharma,West,false
+155,2026-07-12T19:10:14.779Z,2026-07-17T19:10:14.779Z,Bayview Wine & Spirits,POS Terminal,6,899,5394,Delivered,Elena Rodriguez,South,false
+154,2026-07-12T06:10:14.779Z,2026-07-13T10:10:14.779Z,Canyon Coffee Co.,Handheld Barcode Scanner,22,249,5478,Delivered,Elena Rodriguez,South,true
+153,2026-07-12T01:10:14.779Z,2026-07-14T07:10:14.779Z,Pinecrest Pharmacy,Self-Checkout Kiosk,3,4999,14997,Delivered,David Kim,North,false
+152,2026-07-11T17:10:14.779Z,2026-07-15T13:10:14.779Z,Northwind Traders,Label Printer,4,329,1316,Delivered,Aisha Patel,West,false
+151,2026-07-10T19:10:14.779Z,2026-07-14T09:10:14.779Z,Greenleaf Grocers,Mobile Card Reader,57,59,3363,Delivered,Aisha Patel,West,false
+150,2026-07-09T10:10:14.779Z,2026-07-11T16:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,11,119,1309,Delivered,Elena Rodriguez,South,false
+149,2026-07-09T04:10:14.779Z,2026-07-12T05:10:14.779Z,Lakeside Hardware,Mobile Card Reader,29,59,1711,Delivered,Marcus Johnson,East,false
+148,2026-07-09T01:10:14.779Z,2026-07-10T13:10:14.779Z,Harbor Point Deli,Cash Drawer,18,119,2142,Cancelled,Elena Rodriguez,South,false
+147,2026-07-09T00:10:14.779Z,2026-07-11T09:10:14.779Z,Lakeside Hardware,Rugged Field Tablet,3,1299,3897,Delivered,Elena Rodriguez,South,false
+146,2026-07-06T02:10:14.779Z,2026-07-06T06:10:14.779Z,Acme Retail,Rugged Field Tablet,4,1299,5196,Delivered,Elena Rodriguez,South,false
+145,2026-07-04T18:10:14.779Z,2026-07-09T07:10:14.779Z,Greenleaf Grocers,Thermal Receipt Printer,15,189,2835,Delivered,Priya Sharma,West,true
+144,2026-07-03T07:10:14.779Z,2026-07-07T20:10:14.779Z,Harbor Point Deli,POS Terminal,6,899,5394,Delivered,Aisha Patel,West,true
+143,2026-07-03T03:10:14.779Z,2026-07-06T09:10:14.779Z,Blue Harbor Pharmacy,Cash Drawer,7,119,833,Delivered,Elena Rodriguez,South,false
+142,2026-07-02T19:10:14.779Z,2026-07-08T04:10:14.779Z,Acme Retail,Self-Checkout Kiosk,3,4999,14997,Delivered,Aisha Patel,West,false
+141,2026-07-02T10:10:14.779Z,2026-07-06T06:10:14.779Z,Greenleaf Grocers,Cash Drawer,17,119,2023,Cancelled,Marcus Johnson,East,false
+140,2026-07-02T04:10:14.779Z,2026-07-07T10:10:14.779Z,Northwind Traders,POS Terminal,6,899,5394,Delivered,Aisha Patel,West,false
+139,2026-07-01T05:10:14.779Z,2026-07-03T13:10:14.779Z,Canyon Coffee Co.,Cash Drawer,12,119,1428,Delivered,Priya Sharma,West,false
+138,2026-06-29T19:10:14.779Z,2026-07-03T11:10:14.779Z,Canyon Coffee Co.,Self-Checkout Kiosk,3,4999,14997,Delivered,Aisha Patel,West,false
+137,2026-06-29T07:10:14.779Z,2026-07-01T16:10:14.779Z,Fresh Fields Market,Label Printer,8,329,2632,Delivered,Marcus Johnson,East,true
+136,2026-06-29T04:10:14.779Z,2026-07-01T22:10:14.779Z,Northwind Traders,Label Printer,8,329,2632,Delivered,Aisha Patel,West,false
+135,2026-06-28T16:10:14.779Z,2026-07-02T07:10:14.779Z,Metro Mart,Label Printer,5,329,1645,Delivered,David Kim,North,false
+134,2026-06-28T15:10:14.779Z,2026-06-30T22:10:14.779Z,Acme Retail,Cash Drawer,20,119,2380,Delivered,Tom Becker,East,false
+133,2026-06-28T13:10:14.779Z,2026-06-30T06:10:14.779Z,Blue Harbor Pharmacy,POS Terminal,4,899,3596,Delivered,Marcus Johnson,East,false
+132,2026-06-28T04:10:14.779Z,2026-07-02T14:10:14.779Z,Northwind Traders,Mobile Card Reader,54,59,3186,Delivered,Priya Sharma,West,false
+131,2026-06-27T22:10:14.779Z,2026-07-02T15:10:14.779Z,Fresh Fields Market,Handheld Barcode Scanner,29,249,7221,Delivered,Elena Rodriguez,South,false
+130,2026-06-27T02:10:14.779Z,2026-06-29T03:10:14.779Z,Fresh Fields Market,Mobile Card Reader,35,59,2065,Delivered,Priya Sharma,West,true
+129,2026-06-26T12:10:14.779Z,2026-06-28T22:10:14.779Z,Metro Mart,Label Printer,10,329,3290,Delivered,Priya Sharma,West,false
+128,2026-06-26T08:10:14.779Z,2026-06-26T20:10:14.779Z,Summit Outdoor Co.,Handheld Barcode Scanner,29,249,7221,Delivered,Marcus Johnson,East,false
+127,2026-06-25T15:10:14.779Z,2026-06-30T01:10:14.779Z,Sunrise Bakery Group,Thermal Receipt Printer,11,189,2079,Delivered,Marcus Johnson,East,false
+126,2026-06-25T01:10:14.779Z,2026-06-27T11:10:14.779Z,Greenleaf Grocers,Mobile Card Reader,40,59,2360,Delivered,Priya Sharma,West,true
+125,2026-06-24T21:10:14.779Z,2026-06-27T22:10:14.779Z,Riverbend Books,Handheld Barcode Scanner,18,249,4482,Delivered,Marcus Johnson,East,false
+124,2026-06-24T11:10:14.779Z,2026-06-25T09:10:14.779Z,Greenleaf Grocers,Label Printer,9,329,2961,Delivered,Priya Sharma,West,true
+123,2026-06-22T16:10:14.779Z,2026-06-28T16:10:14.779Z,Fresh Fields Market,Thermal Receipt Printer,4,189,756,Cancelled,Tom Becker,East,false
+122,2026-06-22T13:10:14.779Z,2026-06-27T15:10:14.779Z,Bayview Wine & Spirits,Label Printer,6,329,1974,Cancelled,Aisha Patel,West,false
+121,2026-06-22T12:10:14.779Z,2026-06-26T14:10:14.779Z,Northwind Traders,Rugged Field Tablet,1,1299,1299,Delivered,Aisha Patel,West,false
+120,2026-06-21T23:10:14.779Z,2026-06-27T17:10:14.779Z,Sunrise Bakery Group,POS Terminal,5,899,4495,Delivered,Marcus Johnson,East,false
+119,2026-06-21T20:10:14.779Z,2026-06-23T15:10:14.779Z,Bayview Wine & Spirits,Rugged Field Tablet,2,1299,2598,Delivered,Elena Rodriguez,South,true
+118,2026-06-21T07:10:14.779Z,2026-06-22T12:10:14.779Z,Acme Retail,Label Printer,7,329,2303,Delivered,Elena Rodriguez,South,true
+117,2026-06-20T09:10:14.779Z,2026-06-24T16:10:14.779Z,Pinecrest Pharmacy,Mobile Card Reader,42,59,2478,Delivered,Tom Becker,East,false
+116,2026-06-17T19:10:14.779Z,2026-06-19T07:10:14.779Z,Riverbend Books,Rugged Field Tablet,2,1299,2598,Delivered,Priya Sharma,West,true
+115,2026-06-17T19:10:14.779Z,2026-06-21T06:10:14.779Z,Canyon Coffee Co.,POS Terminal,11,899,9889,Delivered,Elena Rodriguez,South,false
+114,2026-06-17T08:10:14.779Z,2026-06-20T10:10:14.779Z,Urban Threads Apparel,Mobile Card Reader,32,59,1888,Delivered,Priya Sharma,West,false
+113,2026-06-17T06:10:14.779Z,2026-06-20T16:10:14.779Z,Maple Street Pet Supply,Cash Drawer,17,119,2023,Delivered,David Kim,North,true
+112,2026-06-17T04:10:14.779Z,2026-06-22T08:10:14.779Z,Riverbend Books,Label Printer,7,329,2303,Delivered,Priya Sharma,West,false
+111,2026-06-16T14:10:14.779Z,2026-06-20T14:10:14.779Z,Fresh Fields Market,Mobile Card Reader,14,59,826,Delivered,Priya Sharma,West,false
+110,2026-06-16T09:10:14.779Z,2026-06-21T06:10:14.779Z,Urban Threads Apparel,Self-Checkout Kiosk,1,4999,4999,Delivered,Priya Sharma,West,false
+109,2026-06-15T12:10:14.779Z,2026-06-16T19:10:14.779Z,Urban Threads Apparel,Label Printer,7,329,2303,Delivered,Priya Sharma,West,false
+108,2026-06-15T00:10:14.779Z,2026-06-20T13:10:14.779Z,Metro Mart,Self-Checkout Kiosk,1,4999,4999,Delivered,David Kim,North,true
+107,2026-06-14T09:10:14.779Z,2026-06-19T02:10:14.779Z,Riverbend Books,Rugged Field Tablet,7,1299,9093,Delivered,Priya Sharma,West,false
+106,2026-06-13T08:10:14.779Z,2026-06-15T17:10:14.779Z,Lakeside Hardware,POS Terminal,6,899,5394,Delivered,Elena Rodriguez,South,true
+105,2026-06-12T17:10:14.779Z,2026-06-17T04:10:14.779Z,Harbor Point Deli,Handheld Barcode Scanner,6,249,1494,Delivered,Tom Becker,East,false
+104,2026-06-12T17:10:14.779Z,2026-06-17T20:10:14.779Z,Summit Outdoor Co.,Mobile Card Reader,27,59,1593,Delivered,Aisha Patel,West,true
+103,2026-06-12T09:10:14.779Z,2026-06-15T20:10:14.779Z,Blue Harbor Pharmacy,Handheld Barcode Scanner,6,249,1494,Delivered,Aisha Patel,West,false
+102,2026-06-11T12:10:14.779Z,2026-06-14T21:10:14.779Z,Pinecrest Pharmacy,POS Terminal,2,899,1798,Delivered,Priya Sharma,West,true
+101,2026-06-10T19:10:14.779Z,2026-06-13T14:10:14.779Z,Riverbend Books,Thermal Receipt Printer,12,189,2268,Delivered,Elena Rodriguez,South,false
+100,2026-06-10T13:10:14.779Z,2026-06-12T17:10:14.779Z,Canyon Coffee Co.,Self-Checkout Kiosk,2,4999,9998,Delivered,Elena Rodriguez,South,false
+99,2026-06-10T03:10:14.779Z,2026-06-14T18:10:14.779Z,Canyon Coffee Co.,POS Terminal,2,899,1798,Delivered,Priya Sharma,West,false
+98,2026-06-09T01:10:14.779Z,2026-06-11T22:10:14.779Z,Bayview Wine & Spirits,Cash Drawer,20,119,2380,Delivered,Elena Rodriguez,South,false
+97,2026-06-08T11:10:14.779Z,2026-06-12T07:10:14.779Z,Riverbend Books,POS Terminal,10,899,8990,Delivered,Tom Becker,East,false
+96,2026-06-08T02:10:14.779Z,2026-06-10T05:10:14.779Z,Greenleaf Grocers,Handheld Barcode Scanner,27,249,6723,Delivered,David Kim,North,true
+95,2026-06-06T22:10:14.779Z,2026-06-07T15:10:14.779Z,Maple Street Pet Supply,Cash Drawer,6,119,714,Delivered,Elena Rodriguez,South,false
+94,2026-06-05T01:10:14.779Z,2026-06-10T22:10:14.779Z,Urban Threads Apparel,Label Printer,2,329,658,Cancelled,Marcus Johnson,East,true
+93,2026-06-03T13:10:14.779Z,2026-06-06T12:10:14.779Z,Blue Harbor Pharmacy,POS Terminal,7,899,6293,Delivered,Elena Rodriguez,South,false
+92,2026-06-02T07:10:14.779Z,2026-06-06T11:10:14.779Z,Urban Threads Apparel,Thermal Receipt Printer,16,189,3024,Delivered,Elena Rodriguez,South,true
+91,2026-06-02T02:10:14.779Z,2026-06-06T06:10:14.779Z,Pinecrest Pharmacy,POS Terminal,3,899,2697,Delivered,Aisha Patel,West,true
+90,2026-06-01T08:10:14.779Z,2026-06-02T14:10:14.779Z,Urban Threads Apparel,Cash Drawer,5,119,595,Delivered,Aisha Patel,West,false
+89,2026-06-01T08:10:14.779Z,2026-06-04T03:10:14.779Z,Pinecrest Pharmacy,Cash Drawer,12,119,1428,Delivered,Priya Sharma,West,false
+88,2026-05-31T12:10:14.779Z,2026-06-02T08:10:14.779Z,Fresh Fields Market,Cash Drawer,9,119,1071,Delivered,Tom Becker,East,false
+87,2026-05-31T04:10:14.779Z,2026-06-01T00:10:14.779Z,Lakeside Hardware,Rugged Field Tablet,4,1299,5196,Delivered,Elena Rodriguez,South,true
+86,2026-05-30T13:10:14.779Z,2026-06-02T04:10:14.779Z,Riverbend Books,Thermal Receipt Printer,5,189,945,Delivered,Priya Sharma,West,true
+85,2026-05-30T08:10:14.779Z,2026-06-02T06:10:14.779Z,Summit Outdoor Co.,POS Terminal,10,899,8990,Delivered,Marcus Johnson,East,false
+84,2026-05-30T05:10:14.779Z,2026-05-31T17:10:14.779Z,Northwind Traders,POS Terminal,4,899,3596,Delivered,Elena Rodriguez,South,false
+83,2026-05-30T04:10:14.779Z,2026-06-03T02:10:14.779Z,Urban Threads Apparel,POS Terminal,7,899,6293,Delivered,Priya Sharma,West,false
+82,2026-05-29T13:10:14.779Z,2026-05-31T09:10:14.779Z,Riverbend Books,Cash Drawer,4,119,476,Delivered,Marcus Johnson,East,true
+81,2026-05-28T09:10:14.779Z,2026-05-31T14:10:14.779Z,Harbor Point Deli,Thermal Receipt Printer,9,189,1701,Delivered,Marcus Johnson,East,false
+80,2026-05-28T00:10:14.779Z,2026-05-30T21:10:14.779Z,Blue Harbor Pharmacy,Label Printer,9,329,2961,Delivered,Priya Sharma,West,false
+79,2026-05-28T00:10:14.779Z,2026-05-31T18:10:14.779Z,Fresh Fields Market,Handheld Barcode Scanner,7,249,1743,Delivered,Priya Sharma,West,false
+78,2026-05-27T20:10:14.779Z,2026-05-30T14:10:14.779Z,Northwind Traders,Label Printer,2,329,658,Delivered,David Kim,North,false
+77,2026-05-27T10:10:14.779Z,2026-05-28T03:10:14.779Z,Northwind Traders,Self-Checkout Kiosk,2,4999,9998,Delivered,Aisha Patel,West,false
+76,2026-05-27T01:10:14.779Z,2026-05-30T21:10:14.779Z,Summit Outdoor Co.,Rugged Field Tablet,3,1299,3897,Delivered,Marcus Johnson,East,false
+75,2026-05-26T22:10:14.779Z,2026-05-29T02:10:14.779Z,Sunrise Bakery Group,Mobile Card Reader,26,59,1534,Delivered,Elena Rodriguez,South,false
+74,2026-05-26T16:10:14.779Z,2026-05-29T12:10:14.779Z,Maple Street Pet Supply,Rugged Field Tablet,3,1299,3897,Delivered,Marcus Johnson,East,true
+73,2026-05-25T23:10:14.779Z,2026-05-31T14:10:14.779Z,Sunrise Bakery Group,Rugged Field Tablet,3,1299,3897,Delivered,Elena Rodriguez,South,true
+72,2026-05-25T10:10:14.779Z,2026-05-26T00:10:14.779Z,Sunrise Bakery Group,Rugged Field Tablet,1,1299,1299,Delivered,Marcus Johnson,East,true
+71,2026-05-23T09:10:14.779Z,2026-05-26T15:10:14.779Z,Blue Harbor Pharmacy,Rugged Field Tablet,7,1299,9093,Delivered,Elena Rodriguez,South,true
+70,2026-05-23T08:10:14.779Z,2026-05-23T13:10:14.779Z,Lakeside Hardware,Cash Drawer,8,119,952,Delivered,Elena Rodriguez,South,false
+69,2026-05-21T10:10:14.779Z,2026-05-26T15:10:14.779Z,Canyon Coffee Co.,Cash Drawer,7,119,833,Delivered,Priya Sharma,West,false
+68,2026-05-21T06:10:14.779Z,2026-05-22T00:10:14.779Z,Summit Outdoor Co.,Self-Checkout Kiosk,3,4999,14997,Delivered,Priya Sharma,West,false
+67,2026-05-20T15:10:14.779Z,2026-05-20T19:10:14.779Z,Summit Outdoor Co.,Label Printer,7,329,2303,Delivered,Priya Sharma,West,true
+66,2026-05-20T05:10:14.779Z,2026-05-25T10:10:14.779Z,Riverbend Books,Cash Drawer,17,119,2023,Delivered,Marcus Johnson,East,false
+65,2026-05-19T09:10:14.779Z,2026-05-19T23:10:14.779Z,Greenleaf Grocers,POS Terminal,3,899,2697,Delivered,Aisha Patel,West,false
+64,2026-05-18T21:10:14.779Z,2026-05-20T21:10:14.779Z,Bayview Wine & Spirits,Rugged Field Tablet,1,1299,1299,Delivered,Priya Sharma,West,false
+63,2026-05-18T20:10:14.779Z,2026-05-24T14:10:14.779Z,Acme Retail,Self-Checkout Kiosk,1,4999,4999,Delivered,Elena Rodriguez,South,true
+62,2026-05-17T14:10:14.779Z,2026-05-20T08:10:14.779Z,Fresh Fields Market,Label Printer,10,329,3290,Delivered,Elena Rodriguez,South,true
+61,2026-05-17T03:10:14.779Z,2026-05-23T00:10:14.779Z,Maple Street Pet Supply,Self-Checkout Kiosk,1,4999,4999,Delivered,Priya Sharma,West,true
+60,2026-05-17T02:10:14.779Z,2026-05-18T03:10:14.779Z,Lakeside Hardware,POS Terminal,12,899,10788,Delivered,Elena Rodriguez,South,false
+59,2026-05-14T04:10:14.779Z,2026-05-19T05:10:14.779Z,Northwind Traders,Handheld Barcode Scanner,27,249,6723,Delivered,David Kim,North,true
+58,2026-05-14T02:10:14.779Z,2026-05-19T07:10:14.779Z,Northwind Traders,Cash Drawer,12,119,1428,Delivered,Aisha Patel,West,true
+57,2026-05-13T11:10:14.779Z,2026-05-19T06:10:14.779Z,Sunrise Bakery Group,Thermal Receipt Printer,11,189,2079,Delivered,David Kim,North,false
+56,2026-05-12T14:10:14.779Z,2026-05-13T03:10:14.779Z,Lakeside Hardware,Handheld Barcode Scanner,5,249,1245,Delivered,Priya Sharma,West,false
+55,2026-05-12T04:10:14.779Z,2026-05-13T13:10:14.779Z,Metro Mart,Thermal Receipt Printer,8,189,1512,Delivered,Elena Rodriguez,South,false
+54,2026-05-10T22:10:14.779Z,2026-05-13T21:10:14.779Z,Metro Mart,Rugged Field Tablet,4,1299,5196,Delivered,Marcus Johnson,East,false
+53,2026-05-10T07:10:14.779Z,2026-05-13T00:10:14.779Z,Northwind Traders,Rugged Field Tablet,7,1299,9093,Delivered,Tom Becker,East,true
+52,2026-05-10T00:10:14.779Z,2026-05-13T14:10:14.779Z,Northwind Traders,Handheld Barcode Scanner,19,249,4731,Delivered,Priya Sharma,West,true
+51,2026-05-09T10:10:14.779Z,2026-05-14T10:10:14.779Z,Lakeside Hardware,Self-Checkout Kiosk,2,4999,9998,Delivered,David Kim,North,false
+50,2026-05-09T02:10:14.779Z,2026-05-12T18:10:14.779Z,Pinecrest Pharmacy,Label Printer,5,329,1645,Delivered,Tom Becker,East,false
+49,2026-05-08T20:10:14.779Z,2026-05-13T00:10:14.779Z,Harbor Point Deli,Rugged Field Tablet,5,1299,6495,Delivered,Tom Becker,East,false
+48,2026-05-08T17:10:14.779Z,2026-05-11T03:10:14.779Z,Acme Retail,Cash Drawer,20,119,2380,Delivered,David Kim,North,true
+47,2026-05-08T01:10:14.779Z,2026-05-10T02:10:14.779Z,Greenleaf Grocers,Mobile Card Reader,30,59,1770,Cancelled,Marcus Johnson,East,false
+46,2026-05-06T05:10:14.779Z,2026-05-11T01:10:14.779Z,Lakeside Hardware,Mobile Card Reader,18,59,1062,Delivered,Marcus Johnson,East,false
+45,2026-05-04T21:10:14.779Z,2026-05-09T07:10:14.779Z,Summit Outdoor Co.,Handheld Barcode Scanner,13,249,3237,Delivered,Aisha Patel,West,false
+44,2026-05-04T07:10:14.779Z,2026-05-08T05:10:14.779Z,Canyon Coffee Co.,Handheld Barcode Scanner,23,249,5727,Delivered,Marcus Johnson,East,true
+43,2026-05-04T00:10:14.779Z,2026-05-09T00:10:14.779Z,Harbor Point Deli,Thermal Receipt Printer,15,189,2835,Delivered,Aisha Patel,West,true
+42,2026-05-02T16:10:14.779Z,2026-05-05T03:10:14.779Z,Maple Street Pet Supply,Rugged Field Tablet,4,1299,5196,Delivered,Priya Sharma,West,false
+41,2026-05-01T12:10:14.779Z,2026-05-03T16:10:14.779Z,Summit Outdoor Co.,Self-Checkout Kiosk,1,4999,4999,Delivered,Priya Sharma,West,false
+40,2026-05-01T05:10:14.779Z,2026-05-06T10:10:14.779Z,Sunrise Bakery Group,Mobile Card Reader,10,59,590,Delivered,David Kim,North,false
+39,2026-04-28T10:10:14.779Z,2026-04-30T10:10:14.779Z,Pinecrest Pharmacy,Label Printer,9,329,2961,Delivered,Marcus Johnson,East,true
+38,2026-04-28T02:10:14.779Z,2026-05-01T10:10:14.779Z,Sunrise Bakery Group,Cash Drawer,18,119,2142,Delivered,David Kim,North,true
+37,2026-04-27T13:10:14.779Z,2026-05-02T23:10:14.779Z,Pinecrest Pharmacy,Handheld Barcode Scanner,23,249,5727,Delivered,David Kim,North,true
+36,2026-04-27T12:10:14.779Z,2026-05-02T20:10:14.779Z,Canyon Coffee Co.,Mobile Card Reader,33,59,1947,Delivered,Marcus Johnson,East,true
+35,2026-04-26T14:10:14.779Z,2026-04-29T02:10:14.779Z,Harbor Point Deli,Label Printer,7,329,2303,Delivered,Elena Rodriguez,South,false
+34,2026-04-25T13:10:14.779Z,2026-04-28T22:10:14.779Z,Acme Retail,Thermal Receipt Printer,4,189,756,Delivered,Priya Sharma,West,true
+33,2026-04-25T11:10:14.779Z,2026-04-27T15:10:14.779Z,Urban Threads Apparel,Self-Checkout Kiosk,2,4999,9998,Delivered,Aisha Patel,West,true
+32,2026-04-23T22:10:14.779Z,2026-04-29T08:10:14.779Z,Summit Outdoor Co.,Mobile Card Reader,44,59,2596,Delivered,Aisha Patel,West,false
+31,2026-04-23T09:10:14.779Z,2026-04-24T05:10:14.779Z,Harbor Point Deli,Label Printer,2,329,658,Delivered,Aisha Patel,West,false
+30,2026-04-22T19:10:14.779Z,2026-04-26T04:10:14.779Z,Lakeside Hardware,Rugged Field Tablet,8,1299,10392,Delivered,David Kim,North,false
+29,2026-04-22T16:10:14.779Z,2026-04-24T15:10:14.779Z,Canyon Coffee Co.,Handheld Barcode Scanner,26,249,6474,Delivered,Elena Rodriguez,South,false
+28,2026-04-20T16:10:14.779Z,2026-04-25T16:10:14.779Z,Blue Harbor Pharmacy,POS Terminal,3,899,2697,Delivered,Tom Becker,East,false
+27,2026-04-19T10:10:14.779Z,2026-04-24T09:10:14.779Z,Maple Street Pet Supply,Mobile Card Reader,51,59,3009,Delivered,David Kim,North,true
+26,2026-04-18T19:10:14.779Z,2026-04-20T13:10:14.779Z,Harbor Point Deli,Cash Drawer,18,119,2142,Delivered,Elena Rodriguez,South,false
+25,2026-04-18T16:10:14.779Z,2026-04-23T05:10:14.779Z,Harbor Point Deli,Thermal Receipt Printer,18,189,3402,Delivered,Elena Rodriguez,South,true
+24,2026-04-18T05:10:14.779Z,2026-04-23T18:10:14.779Z,Canyon Coffee Co.,Cash Drawer,19,119,2261,Delivered,Marcus Johnson,East,false
+23,2026-04-17T20:10:14.779Z,2026-04-23T01:10:14.779Z,Greenleaf Grocers,Label Printer,6,329,1974,Delivered,Priya Sharma,West,false
+22,2026-04-17T15:10:14.779Z,2026-04-20T11:10:14.779Z,Acme Retail,Cash Drawer,12,119,1428,Delivered,David Kim,North,false
+21,2026-04-16T18:10:14.779Z,2026-04-21T01:10:14.779Z,Canyon Coffee Co.,Label Printer,10,329,3290,Delivered,Priya Sharma,West,false
+20,2026-04-16T08:10:14.779Z,2026-04-21T20:10:14.779Z,Sunrise Bakery Group,Rugged Field Tablet,5,1299,6495,Delivered,Tom Becker,East,false
+19,2026-04-15T23:10:14.779Z,2026-04-18T08:10:14.779Z,Bayview Wine & Spirits,Self-Checkout Kiosk,2,4999,9998,Delivered,Elena Rodriguez,South,true
+18,2026-04-15T12:10:14.779Z,2026-04-15T13:10:14.779Z,Summit Outdoor Co.,POS Terminal,4,899,3596,Delivered,Aisha Patel,West,true
+17,2026-04-15T10:10:14.779Z,2026-04-16T09:10:14.779Z,Acme Retail,Handheld Barcode Scanner,29,249,7221,Delivered,Priya Sharma,West,true
+16,2026-04-15T06:10:14.779Z,2026-04-15T22:10:14.779Z,Acme Retail,Label Printer,10,329,3290,Cancelled,David Kim,North,false
+15,2026-04-14T20:10:14.779Z,2026-04-15T16:10:14.779Z,Maple Street Pet Supply,POS Terminal,8,899,7192,Delivered,Marcus Johnson,East,true
+14,2026-04-14T06:10:14.779Z,2026-04-19T21:10:14.779Z,Maple Street Pet Supply,Label Printer,3,329,987,Delivered,Priya Sharma,West,true
+13,2026-04-13T15:10:14.779Z,2026-04-15T15:10:14.779Z,Maple Street Pet Supply,Mobile Card Reader,53,59,3127,Delivered,David Kim,North,true
+12,2026-04-13T06:10:14.779Z,2026-04-17T06:10:14.779Z,Pinecrest Pharmacy,Handheld Barcode Scanner,9,249,2241,Delivered,David Kim,North,false
+11,2026-04-12T05:10:14.779Z,2026-04-15T03:10:14.779Z,Blue Harbor Pharmacy,POS Terminal,6,899,5394,Delivered,Elena Rodriguez,South,false
+10,2026-04-11T21:10:14.779Z,2026-04-17T07:10:14.779Z,Acme Retail,Handheld Barcode Scanner,20,249,4980,Delivered,David Kim,North,true
+9,2026-04-11T18:10:14.779Z,2026-04-17T01:10:14.779Z,Northwind Traders,Thermal Receipt Printer,15,189,2835,Delivered,Tom Becker,East,false
+8,2026-04-11T12:10:14.779Z,2026-04-13T06:10:14.779Z,Harbor Point Deli,Label Printer,9,329,2961,Delivered,Aisha Patel,West,false
+7,2026-04-11T11:10:14.779Z,2026-04-13T06:10:14.779Z,Sunrise Bakery Group,Mobile Card Reader,10,59,590,Delivered,Priya Sharma,West,false
+6,2026-04-11T11:10:14.779Z,2026-04-12T18:10:14.779Z,Sunrise Bakery Group,Rugged Field Tablet,6,1299,7794,Delivered,Aisha Patel,West,false
+5,2026-04-10T10:10:14.779Z,2026-04-13T03:10:14.779Z,Sunrise Bakery Group,Rugged Field Tablet,2,1299,2598,Delivered,Priya Sharma,West,false
+4,2026-04-10T07:10:14.779Z,2026-04-12T10:10:14.779Z,Fresh Fields Market,Cash Drawer,6,119,714,Delivered,Priya Sharma,West,false
+3,2026-04-09T22:10:14.779Z,2026-04-12T16:10:14.779Z,Harbor Point Deli,Thermal Receipt Printer,14,189,2646,Delivered,Priya Sharma,West,false
+2,2026-04-09T07:10:14.779Z,2026-04-15T06:10:14.779Z,Bayview Wine & Spirits,Label Printer,2,329,658,Delivered,Tom Becker,East,true
+1,2026-04-09T03:10:14.779Z,2026-04-13T22:10:14.779Z,Acme Retail,POS Terminal,5,899,4495,Delivered,Priya Sharma,West,false

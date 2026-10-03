@@ -11,7 +11,9 @@
     "devrev:list": "node tools/devrev-sync.js list",
     "db:reset": "node tools/reset-db.js",
     "test": "node tests/run.mjs",
-    "test:ui": "node tests/ui.test.mjs"
+    "test:ui": "node tests/ui.test.mjs",
+    "report": "node tools/report.js",
+    "report:publish": "node tools/report.js --publish"
   },
   "engines": {
     "node": ">=20.12"
